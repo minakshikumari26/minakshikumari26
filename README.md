@@ -21,10 +21,13 @@ Currently pursuing B.Tech in Computer Science Engineering and building productio
 # 🚀 About Me
 
 - 🎓 B.Tech CSE Student graduating in 2026
-- 💼 Software Engineering Intern at **FICO** (July 2025 – July 2026)
+- 💼 Software Engineering Intern at FICO (July 2025 – July 2026)
 - 🧠 Passionate about AI Engineering, Backend Development, and Scalable Systems
-- ⚡ Strong focus on delivering measurable and actionable software solutions
-- 📚 Continuously learning AI systems, distributed architecture, and production-grade engineering
+- ⚙️ Building production-ready AI-powered backend applications
+- 🐳 Experienced in containerized application development using Docker
+- 📊 Interested in distributed systems, system design, and real-time data pipelines
+- 🚀 Strong focus on scalable architecture, clean code, and measurable impact
+- 📚 Continuously learning advanced backend engineering and AI systems
 
 ---
 
@@ -38,29 +41,33 @@ Currently pursuing B.Tech in Computer Science Engineering and building productio
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</div>
-
----
-
-## Web Development
-
-<div align="center">
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MERN](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge)
 
 </div>
 
 ---
+
 
 ## AI / ML & Data
 
 <div align="center">
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8E44AD?style=for-the-badge)
+
+</div>
+
+---
+
+## Backend & AI Technologies
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -78,6 +85,7 @@ Currently pursuing B.Tech in Computer Science Engineering and building productio
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge)
 
 </div>
 
@@ -181,11 +189,13 @@ Multi-agent loan evaluation system built with Python, FastAPI, and Streamlit for
 # 📚 Domains of Interest
 
 - Backend Engineering
-- Software Development
 - Artificial Intelligence
 - Machine Learning
 - Distributed Systems
-- Software Engineering
+- System Design
+- Data Engineering
+- Scalable Software Architecture
+- Production-Grade AI Systems
 
 ---
 
