@@ -126,11 +126,11 @@ Enterprise-level AI-powered disease outbreak prediction and monitoring platform 
 ### ⚙️ Tech Stack
 `Python` `FastAPI` `PostgreSQL` `Docker` `Kafka` `Airflow` `MLflow` `Streamlit`
 
-🔗 GitHub: https://github.com/minakshikumari26
+🔗 GitHub: https://github.com/minakshikumari26/EPI_Pulse-AI
 
 ---
 
-## 🏦 OnboardIQ
+## 🏦 EnrollAI
 
 Intelligent account onboarding system that uses Agentic AI to streamline KYC, document verification, and risk profiling for modern banking systems.
 
@@ -140,6 +140,8 @@ Intelligent account onboarding system that uses Agentic AI to streamline KYC, do
 - Intelligent customer risk profiling
 - Streamlined onboarding workflows
 - Scalable backend architecture
+
+GitHub : https://github.com/minakshikumari26/EnrollAI
 
 ---
 
