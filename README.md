@@ -1,4 +1,4 @@
-# Hi there, I'm Minakshi Kumari 👋
+# Hi there, I'm Minakshi Kumari 
 
 A passionate Software Engineering Intern and AI-focused Backend Developer with expertise in Java, Python, AI-powered systems, and scalable backend architectures.  
 Currently pursuing B.Tech in Computer Science Engineering and building production-ready AI applications focused on real-world impact.
